@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: techtrends:latest
+          tags: kydq/techtrends:latest
